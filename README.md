@@ -8,3 +8,6 @@
 * Day 2: [Finding correlations between multiple stocks](https://github.com/1dhiman/100days-ml/blob/master/day2_Finding_Correlations_between_Multiple_Stocks..ipynb) [(Source)](https://mapattack.wordpress.com/2017/02/14/python-for-stocks-2/)
 
 * Day 3: [Additive Models and Time Series Prediction with Prophet](https://github.com/1dhiman/100days-ml/blob/master/day3_Additive_Models_and_Time_Series_Prediction.ipynb) [(Source)](https://facebook.github.io/prophet/docs/quick_start.html)
+
+* Day 4: [Creating Dataset of 100 NSE Stocks](https://github.com/1dhiman/100days-ml/blob/master/day4_Creating_Dataset_Of_Stocks.ipynb) 
+
