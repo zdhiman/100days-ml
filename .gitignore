@@ -1,3 +1,5 @@
-.ipynb_checkpoints
-/data
-/.DS_Store
+**/.ipynb_checkpoints/
+**/data/
+**/.DS_Store/
+**/__pycache__/
+
