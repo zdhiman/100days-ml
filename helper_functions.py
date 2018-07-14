@@ -266,7 +266,7 @@ def plot_roc_curve(fpr, tpr, auc, mod, xlim=None, ylim=None):
 			color_value = method[i][1]
 
 	fig, ax = plt.subplots(figsize=(10, 10))
-	ax.set_axis_bgcolor('#fafafa')
+	#ax.set_axis_bgcolor('#fafafa')
 
 	plt.plot(fpr, tpr, 
 		color=color_value, 

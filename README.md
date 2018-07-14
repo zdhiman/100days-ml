@@ -14,3 +14,5 @@
 * Day 5: [Web scraping location on U-Bahn Stations in Berlin](https://github.com/1dhiman/100days-ml/blob/master/day5_Webscraping_Location_of_Train_Stations_in_Berlin.ipynb)
 
 * Day 6: [Predicting Breast Cancer - Data Exploration](https://github.com/1dhiman/100days-ml/blob/master/day6_Breast_Cancer_Exploratory_Analysis.ipynb)
+
+* Day 7: [Predicting Breast Cancer - KNN Classification](https://github.com/1dhiman/100days-ml/blob/master/day6_Breast_Cancer_Exploratory_Analysis.ipynb)
