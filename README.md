@@ -15,4 +15,4 @@
 
 * Day 6: [Predicting Breast Cancer - Data Exploration](https://github.com/1dhiman/100days-ml/blob/master/day6_Breast_Cancer_Exploratory_Analysis.ipynb)
 
-* Day 7: [Predicting Breast Cancer - KNN Classification](https://github.com/1dhiman/100days-ml/blob/master/day6_Breast_Cancer_Exploratory_Analysis.ipynb)
+* Day 7: [Predicting Breast Cancer - KNN Classification](https://github.com/1dhiman/100days-ml/blob/master/day7_Breast_Cancer_KNN_Classification.ipynb)
