@@ -219,7 +219,7 @@ def variable_importance_plot(importance_desc, indices):
 
 	f, ax = plt.subplots(figsize=(11, 11))
 	
-	ax.set_axis_bgcolor('#fafafa')
+	#ax.set_axis_bgcolor('#fafafa')
 	plt.title('Feature importances for Random Forest Model')
 	plt.barh(index, importance_desc,
 		align="center", 
