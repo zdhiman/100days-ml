@@ -21,4 +21,4 @@
 
 * Day 9: [Predicting Breast Cancer - Neural Network Classification](https://github.com/1dhiman/100days-ml/blob/master/day9_Breast_Cancer_Neural_Network_Classification.ipynb)
 
-* Day 10: [Predicting Breast Cancer - Model Evaluation](https://github.com/1dhiman/100days-ml/blob/master/day9_Breast_Cancer_Neural_Network_Classification.ipynb)
+* Day 10: [Predicting Breast Cancer - Model Evaluation](https://github.com/1dhiman/100days-ml/blob/master/day10_Breast_Cancer_Model_Evaluation.ipynb)
