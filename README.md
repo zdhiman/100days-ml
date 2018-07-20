@@ -25,3 +25,4 @@
 
 * Day 11 & 12: [Data Visualization - Annotating data](https://github.com/1dhiman/100days-ml/blob/master/day11_and_12_Data_Viz_Annotating_Data.ipynb) [(Source)](http://pyviz.org/tutorial/index.html)
 
+* Day 13: [Data Visualization - Making data visualizable]() 
