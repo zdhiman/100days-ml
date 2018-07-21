@@ -27,4 +27,4 @@
 
 * Day 13: [Data Visualization - Making data visualizable](https://github.com/1dhiman/100days-ml/blob/master/day13_Making_Data_Visualizable.ipynb) 
 
-* Day 14: [Data Visualization - Working with Tabular Data](https://github.com/1dhiman/100days-ml/blob/master/day13_Making_Data_Visualizable.ipynb) 
+* Day 14: [Data Visualization - Working with Tabular Data](https://github.com/1dhiman/100days-ml/blob/master/day14_Working_with_Tabular_Data.ipynb) 
