@@ -34,3 +34,6 @@
 * Day 16: [Data Visualization - Working with Collections of Data](https://github.com/1dhiman/100days-ml/blob/master/day16_datasets_and_collections_of_data.ipynb)
 
 * Day 17: [Data Visualization - Network Graphs](https://github.com/1dhiman/100days-ml/blob/master/day17_Network_Graphs.ipynb)
+
+* Day 18: [Data Visualization - Geographical Data](
+https://github.com/1dhiman/100days-ml/blob/master/day18_Geographic_Data.ipynb)
