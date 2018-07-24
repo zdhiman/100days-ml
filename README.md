@@ -32,3 +32,5 @@
 * Day 15: [Data Visualization - Working with Gridded Data](https://github.com/1dhiman/100days-ml/blob/master/day15_Working_with_Gridded_Data.ipynb)
 
 * Day 16: [Data Visualization - Working with Collections of Data](https://github.com/1dhiman/100days-ml/blob/master/day16_datasets_and_collections_of_data.ipynb)
+
+* Day 17: [Data Visualization - Network Graphs](https://github.com/1dhiman/100days-ml/blob/master/day16_datasets_and_collections_of_data.ipynb)
