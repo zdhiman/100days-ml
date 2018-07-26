@@ -37,3 +37,7 @@
 
 * Day 18: [Data Visualization - Geographical Data](
 https://github.com/1dhiman/100days-ml/blob/master/day18_Geographic_Data.ipynb)
+
+* Day 19: [Data Visualization - Networks and Geoviews](
+https://github.com/1dhiman/100days-ml/blob/master/day18_Geographic_Data.ipynb
+)
