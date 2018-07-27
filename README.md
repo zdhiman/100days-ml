@@ -40,3 +40,6 @@ https://github.com/1dhiman/100days-ml/blob/master/day18_Geographic_Data.ipynb)
 
 * Day 19: [Data Visualization - Networks and Geoviews](
 https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ipynb)
+
+* Day 20: [Data Visualization - Customer interactivity](
+https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ipynb)
