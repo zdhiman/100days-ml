@@ -45,4 +45,4 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 
 * Day 21: [Bayesian hypothesis testing](https://github.com/1dhiman/100days-ml/blob/master/day_21_bayesian.ipynb) [(Source)](https://github.com/ericmjl/bayesian-stats-modelling-tutorial)
 
-* Day 22: [Bayesian multi-group comparison](https://github.com/1dhiman/100days-ml/blob/master/day20_Custom_Interactivity.ipynb)
+* Day 22: [Bayesian multi-group comparison](https://github.com/1dhiman/100days-ml/blob/master/day22_bayesian_multi_group_comparison.ipynb)
