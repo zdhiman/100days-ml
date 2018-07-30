@@ -49,4 +49,4 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 
 * Day 23: [Bayesian hierarchical modelling](https://github.com/1dhiman/100days-ml/blob/master/day23_bayesian_hierarchical_models.ipynb)
 
-* Day 24: [Book recommender system](https://github.com/1dhiman/100days-ml/blob/master/day24_%20recommender_system.ipynb)
+* Day 24: [Book recommender system](https://github.com/1dhiman/100days-ml/blob/master/day24_recommender_system.ipynb)
