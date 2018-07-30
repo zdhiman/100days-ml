@@ -48,3 +48,5 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 22: [Bayesian multi-group comparison](https://github.com/1dhiman/100days-ml/blob/master/day22_bayesian_multi_group_comparison.ipynb)
 
 * Day 23: [Bayesian hierarchical modelling](https://github.com/1dhiman/100days-ml/blob/master/day23_bayesian_hierarchical_models.ipynb)
+
+* Day 24: [Book recommender system]()
