@@ -51,4 +51,4 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 
 * Day 24: [Book recommender system](https://github.com/1dhiman/100days-ml/blob/master/day24_recommender_system.ipynb)
 
-* Day 25: [Customer lifetime value](https://github.com/1dhiman/100days-ml/blob/master/day24_recommender_system.ipynb)
+* Day 25: [Customer lifetime value](https://github.com/1dhiman/100days-ml/blob/master/day25_CLV.ipynb)
