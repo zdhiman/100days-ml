@@ -54,3 +54,5 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 25: [Customer lifetime value](https://github.com/1dhiman/100days-ml/blob/master/day25_CLV.ipynb)
 
 * Day 26 : [Customer segmentation with RFM](https://github.com/1dhiman/100days-ml/blob/master/day26_RFM.ipynb)
+
+* Day 27 : [Customer segmentation for online retail](https://github.com/1dhiman/100days-ml/blob/master/day26_RFM.ipynb)
