@@ -57,4 +57,4 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 
 * Day 27 : [Customer segmentation for online retail](https://github.com/1dhiman/100days-ml/blob/master/day27_Customer_Segmentation_Online_Retail.ipynb)
 
-* Day 28 : [Cross selling groceries](https://github.com/1dhiman/100days-ml/blob/master/day27_Customer_Segmentation_Online_Retail.ipynb)
+* Day 28 : [Cross selling groceries](https://github.com/1dhiman/100days-ml/blob/master/day28_Cross_Selling_Groceries.ipynb)
