@@ -36,4 +36,4 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 30 : [Finding sample size for study](https://github.com/1dhiman/100days-ml/blob/master/day30_Finding_sample_size_for_study.ipynb)
 * Day 31 : [Predict a building's Energy Star Score - EDA](https://github.com/1dhiman/100days-ml/blob/master/day31_energy_score_EDA.ipynb)
 * Day 32 : [Predict a building's Energy Star Score - Modelling](https://github.com/1dhiman/100days-ml/blob/master/day32_energy_score_Modelling.ipynb)
-
+* Day 33 : [Predict a building's Energy Star Score - Evaluation](https://github.com/1dhiman/100days-ml/blob/master/day33_energy_score_Evaluation.ipynb)
