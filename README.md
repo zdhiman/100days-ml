@@ -38,3 +38,4 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 32 : [Predict a building's Energy Star Score - Modelling](https://github.com/1dhiman/100days-ml/blob/master/day32_energy_score_Modelling.ipynb)
 * Day 33 : [Predict a building's Energy Star Score - Evaluation](https://github.com/1dhiman/100days-ml/blob/master/day33_energy_score_Evaluation.ipynb)
 * Day 34 [Feature engineering with featuretools](https://github.com/1dhiman/100days-ml/blob/master/day34_feature_engineering.ipynb)
+* Day 35 [Building DNNs with Keras in R](https://github.com/1dhiman/100days-ml/blob/master/day35_keras_in_R.R)
