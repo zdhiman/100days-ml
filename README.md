@@ -40,3 +40,4 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 34 [Feature engineering with featuretools](https://github.com/1dhiman/100days-ml/blob/master/day34_feature_engineering.ipynb)
 * Day 35 [Building DNNs with Keras in R](https://github.com/1dhiman/100days-ml/blob/master/day35_keras_in_R.R)
 * Day 36 [Sentiment analysis of movie reviews](https://github.com/1dhiman/100days-ml/blob/master/day36_Sentiment_Analysis.ipynb)
+* Day 37 [Bayesian optimization](https://github.com/1dhiman/100days-ml/blob/master/day37_bayesian_optimization.ipynb)
