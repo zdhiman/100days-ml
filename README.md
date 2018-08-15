@@ -43,3 +43,4 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 37: [Bayesian optimization](https://github.com/1dhiman/100days-ml/blob/master/day37_bayesian_optimization.ipynb)
 * Day 38: [Feature ranking methods](https://github.com/1dhiman/100days-ml/blob/master/day38_feature_ranking.ipynb)
 * Day 39: [Predicting house price - EDA](https://nbviewer.jupyter.org/github/1dhiman/100days-ml/blob/master/day39_house_price_prediction_EDA.ipynb)
+* Day 40: [Predicting house prices - Linear regression](https://github.com/1dhiman/100days-ml/blob/master/day40_house_price_prediction_modelling_ml.ipynb)
