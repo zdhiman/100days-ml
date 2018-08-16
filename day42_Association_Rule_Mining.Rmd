@@ -1,0 +1,68 @@
+---
+title: "Association Rule Mining"
+output: html_notebook
+---
+
+Market Basket Analysis is similar to ARM. Market Basket Analysis is a modelling technique based upon the theory that if you buy a certain group of items, you are more (or less) likely to buy another group of items. 
+
+```{r message=FALSE, warning=FALSE, paged.print=FALSE}
+#install.packages("arules")
+#install.packages("arulesViz")
+
+library(arules)
+library(arulesViz)
+```
+
+## Data
+This is a transactional dataset.
+
+The first two transactions and the items involved in each transaction can be observed from the output below.
+```{r}
+data("Groceries")
+class(Groceries)
+inspect(head(Groceries, 2))
+```
+
+## Generating Rules
+
+There are three parameters controlling the number of rules to be generated viz. **Support** and **Confidence**. Another parameter **Lift** is generated using Support and Confidence and is one of the major parameters to filter the generated rules.
+
+* **Support** is an indication of how frequently the itemset appears in the dataset. Consider only the two transactions from the above output. The support of the item citrus fruit is 1/2 as it appears in only 1 out of the two transactions.
+
+* **Confidence** is an indication of how often the rule has been found to be true. 
+
+Lets find out the rules using the apriori algorithm.
+```{r}
+grocery_rules <- apriori(Groceries, 
+                         parameter = list(support = 0.01, confidence = 0.5))
+```
+The Apriori algorithm generated 15 rules with the given constraints.
+
+### Parameter Specification
+
+* **`minval`** is the minimum value of the support an itemset should satisfy to be a part of a rule.
+* **`smax`** is the maximum support value for an itemset.
+* **`arem`** is an Additional Rule Evaluation Parameter. In the above code we have constrained the number of rules using Support and Confidence. There are several other ways to constrain the rules using the arem parameter in the function.
+* **`aval`** is a logical indicating whether to return the additional rule evaluation measure selected with arem.
+* **`originalSupport`** The traditional support value only considers both LHS and RHS items for calculating support. If you want to use only the LHS items for the calculation then you need to set this to FALSE.
+* **`maxtime`** is the maximum amount of time allowed to check for subsets.
+* **`minlen`** is the minimum number of items required in the rule.
+* **`maxlen`** is the maximum number of items that can be present in the rule.
+
+#### The top 3 rules sorted by confidence
+
+```{r}
+inspect(head(sort(grocery_rules, by = "confidence"), 3))
+```
+
+### Limiting the number of rules generated
+
+The code below shows what products are bought before buying **"whole milk"** and will generate rules that lead to buying "whole milk".
+
+```{r}
+wholemilk_rules <- apriori(data=Groceries, 
+                           parameter=list (supp=0.001,conf = 0.08), 
+                           appearance = list (rhs="whole milk"))
+
+inspect(head(sort(wholemilk_rules, by = "confidence"), 3))
+```
