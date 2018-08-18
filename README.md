@@ -46,3 +46,4 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 40: [Predicting house prices - Linear regression](https://github.com/1dhiman/100days-ml/blob/master/day40_house_price_prediction_modelling_ml.ipynb)
 * Day 41: [Predicting house prices - Deep learning](https://github.com/1dhiman/100days-ml/blob/master/day41_predicting_house_prices_modelling_dl.ipynb)
 * Day 42: [Association Rule Mining](https://github.com/1dhiman/100days-ml/blob/master/day42_Association_Rule_Mining.Rmd)
+* Day 43: [Clustering algorithms](https://github.com/1dhiman/100days-ml/blob/master/day43_Clustering_algorithms.ipynb)
