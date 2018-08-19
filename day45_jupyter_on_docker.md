@@ -17,3 +17,12 @@ docker start -a CONTAINER_NAME
 docker rm CONTAINER_NAME
 ```
 
+### Launch datascience notebook
+
+`docker run -it --rm --name ds -p 8888:8888 jupyter/datascience-notebook`
+
+Open a bash session 
+
+`docker exec -it ds bash`
+
+`conda list`
