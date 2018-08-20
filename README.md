@@ -48,3 +48,45 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 42: [Association Rule Mining](https://github.com/1dhiman/100days-ml/blob/master/day42_Association_Rule_Mining.Rmd)
 * Day 43: [Clustering algorithms](https://github.com/1dhiman/100days-ml/blob/master/day43_Clustering_algorithms.ipynb)
 * Day 44: [Modelling churn](https://github.com/1dhiman/100days-ml/blob/master/day44_modelling_churn.R)
+* Day 45: [Jupyter on docker](https://github.com/1dhiman/100days-ml/blob/master/day45_jupyter_on_docker.md)
+
+--- 
+
+* Day 46: [Forecasting avocado prices - fbprophet]
+* Day 47: [[Forecasting avocado prices - statsmodels]]
+* Day 48: [Forecasting ozone levels in Madrid]
+* Day 49: [Fast Food in Cincinnati]
+* Day 50: [Clustering user preference]
+* Day 51: [Tensorflow - First Steps]
+* Day 52: [Tensorflow - Synthetic Features and Outliers]
+* Day 53: [Tensorflow - Validation]
+* Day 54: [Tensorflow - Feature Sets]
+* Day 55: [Tensorflow - Feature Crosses]
+* Day 56: [Tensorflow - Logistic Regression]
+* Day 57: [Tensorflow - Sparsity and L1 Regularization]
+* Day 58: [Tensorflow - Introduction to Neural Networks]
+* Day 59: [Tensorflow - Sparse Data and Embeddings]
+* Day 60: [Tensorflow - Classifying Handwritten Digits with Neural Networks]
+* Day 61: [Tensorflow - Improving Neural Net Performance]
+* Day 62: [Analysing CRAN log files]
+* Day 63: [Predicting Loan Success]
+* Day 64: [Building Interest Rates Calculator]
+* Day 65: [Visualizing colleges in California]
+* Day 66: [Predict diabetes risk]
+* Day 67: [Predict future sales]
+* Day 68: [Predict wine quality]
+* Day 69: [Predictive Customer Analytics - Attrition Patterns]
+* Day 70: [Predictive Customer Analytics - Lifetime Value]
+* Day 71: [Predictive Customer Analytics - Grouping Customer Support Problems]
+* Day 72: [Predictive Customer Analytics - Predicting Prospect Propensity]
+* Day 73: [Predictive Customer Analytics - Recommending Items to Users]
+* Day 74: [Numpy Essentials]
+* Day 75: [Pandas Essentials]
+* Day 76: [Python Data Analysis Essentials]
+* Day 77: [Machine Learning 101]
+* Day 78: [Trading Cryptocurrencies with momentum trading strategy]
+* Day 79: [Predicting Republican and Democratic Donations]
+* Day 80: [Exploring World Happiness Report]
+* Day 81: [Creating FiveThirtyEight Graphs]
+* Day 82: [Auto ML with TPOT]
+* Day 83: 
