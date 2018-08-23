@@ -51,10 +51,10 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 45: [Jupyter on docker](https://github.com/1dhiman/100days-ml/blob/master/day45_jupyter_on_docker.md)
 * Day 46: [Forecasting avocado prices - fbprophet](https://www.kaggle.com/dhimananubhav/forecasting-avocado-prices-fbprophet-mape-6/)
 * Day 47: [Forecasting avocado prices - statsmodels](https://www.kaggle.com/dhimananubhav/forecasting-avocado-prices-statsmodels-mape-8)
+* Day 48: [Forecasting ozone levels in Madrid](https://www.kaggle.com/dhimananubhav/forecasting-ozone-levels-in-madrid)
 
 --- 
 
-* Day 48: [Forecasting ozone levels in Madrid]
 * Day 49: [Fast Food in Cincinnati]
 * Day 50: [Clustering user preference]
 * Day 51: [Tensorflow - First Steps]
