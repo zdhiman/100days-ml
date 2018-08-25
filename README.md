@@ -53,11 +53,11 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 47: [Forecasting avocado prices - statsmodels](https://www.kaggle.com/dhimananubhav/forecasting-avocado-prices-statsmodels-mape-8)
 * Day 48: [Forecasting ozone levels in Madrid](https://www.kaggle.com/dhimananubhav/forecasting-ozone-levels-in-madrid)
 * Day 49: [Fast Food in Cincinnati](https://www.kaggle.com/dhimananubhav/fast-food-in-cincinnati)
+* Day 50: [Clustering user preference](https://www.kaggle.com/dhimananubhav/clustering-user-preference)
 
 --- 
 
 
-* Day 50: [Clustering user preference]
 * Day 51: [Tensorflow - First Steps]
 * Day 52: [Tensorflow - Synthetic Features and Outliers]
 * Day 53: [Tensorflow - Validation]
