@@ -54,11 +54,11 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 48: [Forecasting ozone levels in Madrid](https://www.kaggle.com/dhimananubhav/forecasting-ozone-levels-in-madrid)
 * Day 49: [Fast Food in Cincinnati](https://www.kaggle.com/dhimananubhav/fast-food-in-cincinnati)
 * Day 50: [Clustering user preference](https://www.kaggle.com/dhimananubhav/clustering-user-preference)
+* Day 51: [Tensorflow - First Steps](https://github.com/1dhiman/colab-notebooks/blob/master/tf1_first_steps_with_tensor_flow.ipynb)
 
 --- 
 
 
-* Day 51: [Tensorflow - First Steps]
 * Day 52: [Tensorflow - Synthetic Features and Outliers]
 * Day 53: [Tensorflow - Validation]
 * Day 54: [Tensorflow - Feature Sets]
