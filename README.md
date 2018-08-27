@@ -92,4 +92,9 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 82: [Auto ML with TPOT]
 * Day 83: [EDA with Sales Data]
 * Day 84: [Inspecting worse offender - Dodger Stadium]
-* Day 85: 
+* Day 85: [Bayesian A/B testing]
+* Day 86: [Time series analysis]
+* Day 87: [California Wildfires]
+* Day 88: [Display calendar with python]
+* Day 89: [Anonymize data with pandas]
+* Day 90: [Exploring correlations with corr]
