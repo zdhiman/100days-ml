@@ -90,4 +90,6 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 80: [Exploring World Happiness Report]
 * Day 81: [Creating FiveThirtyEight Graphs]
 * Day 82: [Auto ML with TPOT]
-* Day 83: 
+* Day 83: [EDA with Sales Data]
+* Day 84: [Inspecting worse offender - Dodger Stadium]
+* Day 85: 
