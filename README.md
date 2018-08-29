@@ -57,11 +57,10 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 51: [Tensorflow - First Steps](https://github.com/1dhiman/colab-notebooks/blob/master/tf1_first_steps_with_tensor_flow.ipynb)
 * Day 52: [Tensorflow - Synthetic Features and Outliers](https://github.com/1dhiman/colab-notebooks/blob/master/tf2_synthetic_features_and_outliers.ipynb)
 * Day 53: [Tensorflow - Validation](https://github.com/1dhiman/colab-notebooks/blob/master/tf3_validation.ipynb)
+* Day 54: [Tensorflow - Feature Sets](https://github.com/1dhiman/colab-notebooks/blob/master/tf4_feature_sets.ipynb)
 
 --- 
 
-
-* Day 54: [Tensorflow - Feature Sets]
 * Day 55: [Tensorflow - Feature Crosses]
 * Day 56: [Tensorflow - Logistic Regression]
 * Day 57: [Tensorflow - Sparsity and L1 Regularization]
@@ -99,3 +98,4 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 89: [Anonymize data with pandas]
 * Day 90: [Exploring correlations with corr]
 * Day 91: [Fraud detection using autoencoders]
+* Day 92: [Published patents? 2011 China emerges as a leader]
