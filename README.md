@@ -58,10 +58,11 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 52: [Tensorflow - Synthetic Features and Outliers](https://github.com/1dhiman/colab-notebooks/blob/master/tf2_synthetic_features_and_outliers.ipynb)
 * Day 53: [Tensorflow - Validation](https://github.com/1dhiman/colab-notebooks/blob/master/tf3_validation.ipynb)
 * Day 54: [Tensorflow - Feature Sets](https://github.com/1dhiman/colab-notebooks/blob/master/tf4_feature_sets.ipynb)
+* Day 55: [Tensorflow - Feature Crosses](https://github.com/1dhiman/colab-notebooks/blob/master/tf5_feature_crosses.ipynb)
 
 --- 
 
-* Day 55: [Tensorflow - Feature Crosses]
+
 * Day 56: [Tensorflow - Logistic Regression]
 * Day 57: [Tensorflow - Sparsity and L1 Regularization]
 * Day 58: [Tensorflow - Introduction to Neural Networks]
@@ -99,3 +100,5 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 90: [Exploring correlations with corr]
 * Day 91: [Fraud detection using autoencoders]
 * Day 92: [Published patents? 2011 China emerges as a leader]
+* Day 93: [t-SNE]
+* Day 94: [Classifying Consumer Finance Complaints]
