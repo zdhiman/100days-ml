@@ -102,3 +102,4 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 92: [Published patents? 2011 China emerges as a leader]
 * Day 93: [t-SNE]
 * Day 94: [Classifying Consumer Finance Complaints]
+* Day 95: [Item Store demand forecasting]
