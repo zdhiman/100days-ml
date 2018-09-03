@@ -62,11 +62,11 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 56: [Tensorflow - Logistic Regression](https://github.com/1dhiman/colab-notebooks/blob/master/tf6_logistic_regression.ipynb)
 * Day 57: [Tensorflow - Sparsity and L1 Regularization](https://github.com/1dhiman/colab-notebooks/blob/master/tf7_sparsity_and_l1_regularization.ipynb)
 * Day 58: [Tensorflow - Introduction to Neural Networks](https://github.com/1dhiman/colab-notebooks/blob/master/tf8_intro_to_neural_nets.ipynb)
+* Day 59: [Tensorflow - Sparse Data and Embeddings](https://github.com/1dhiman/colab-notebooks/blob/master/tf9_intro_to_sparse_data_and_embeddings.ipynb)
 
 --- 
 
 
-* Day 59: [Tensorflow - Sparse Data and Embeddings]
 * Day 60: [Tensorflow - Classifying Handwritten Digits with Neural Networks]
 * Day 61: [Tensorflow - Improving Neural Net Performance]
 * Day 62: [Analysing CRAN log files]
