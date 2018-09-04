@@ -63,11 +63,10 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 57: [Tensorflow - Sparsity and L1 Regularization](https://github.com/1dhiman/colab-notebooks/blob/master/tf7_sparsity_and_l1_regularization.ipynb)
 * Day 58: [Tensorflow - Introduction to Neural Networks](https://github.com/1dhiman/colab-notebooks/blob/master/tf8_intro_to_neural_nets.ipynb)
 * Day 59: [Tensorflow - Sparse Data and Embeddings](https://github.com/1dhiman/colab-notebooks/blob/master/tf9_intro_to_sparse_data_and_embeddings.ipynb)
+* Day 60: [Tensorflow - Classifying Handwritten Digits with Neural Networks](https://github.com/1dhiman/colab-notebooks/blob/master/tf10_multi_class_classification_of_handwritten_digits.ipynb)
 
 --- 
 
-
-* Day 60: [Tensorflow - Classifying Handwritten Digits with Neural Networks]
 * Day 61: [Tensorflow - Improving Neural Net Performance]
 * Day 62: [Analysing CRAN log files]
 * Day 63: [Predicting Loan Success]
@@ -102,4 +101,5 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 92: [Published patents? 2011 China emerges as a leader]
 * Day 93: [t-SNE]
 * Day 94: [Classifying Consumer Finance Complaints]
-* Day 95: [Item Store demand forecasting]
+* Day 95: [Item Store demand forecasting - prophet]
+* Day 96: [Item Store demand forecasting - lightgbm]
