@@ -65,10 +65,10 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 59: [Tensorflow - Sparse Data and Embeddings](https://github.com/1dhiman/colab-notebooks/blob/master/tf9_intro_to_sparse_data_and_embeddings.ipynb)
 * Day 60: [Tensorflow - Classifying Handwritten Digits with Neural Networks](https://github.com/1dhiman/colab-notebooks/blob/master/tf10_multi_class_classification_of_handwritten_digits.ipynb)
 * Day 61: [Tensorflow - Improving Neural Net Performance](https://github.com/1dhiman/colab-notebooks/blob/master/tf11_improving_neural_net_performance.ipynb)
+* Day 62: [Analysing CRAN log files](https://github.com/1dhiman/ml-projects/blob/master/big-data-ml/01-Analyzing-R-CRAN-logfiles/1_ApachePIG_Analysing_CRAN_log_files.ipynb)
 
 --- 
 
-* Day 62: [Analysing CRAN log files]
 * Day 63: [Predicting Loan Success]
 * Day 64: [Building Interest Rates Calculator]
 * Day 65: [Visualizing colleges in California]
