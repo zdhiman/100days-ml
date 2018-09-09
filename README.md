@@ -68,10 +68,10 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 62: [Analysing CRAN log files](https://github.com/1dhiman/ml-projects/blob/master/big-data-ml/01-Analyzing-R-CRAN-logfiles/1_ApachePIG_Analysing_CRAN_log_files.ipynb)
 * Day 63: [Predicting Loan Success](https://github.com/1dhiman/ml-projects/blob/master/big-data-ml/02-Predicting-loan-application-acceptance/2_Predicting_Loan_Success.ipynb)
 * Day 64: [Building Interest Rates Calculator](https://github.com/1dhiman/ml-projects/blob/master/big-data-ml/03-Interest-Rate-Calculator/3_ApacheSPARK_Building_Interest_Rates_Calculator.ipynb)
+* Day 65: [Visualizing colleges in California](https://github.com/1dhiman/ml-projects/blob/master/data-viz-ggplot2/results/california_colleges.png)
 
 --- 
 
-* Day 65: [Visualizing colleges in California]
 * Day 66: [Predict diabetes risk]
 * Day 67: [Predict future sales]
 * Day 68: [Predict wine quality]
