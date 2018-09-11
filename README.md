@@ -70,10 +70,10 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 64: [Building Interest Rates Calculator](https://github.com/1dhiman/ml-projects/blob/master/big-data-ml/03-Interest-Rate-Calculator/3_ApacheSPARK_Building_Interest_Rates_Calculator.ipynb)
 * Day 65: [Visualizing colleges in California](https://github.com/1dhiman/ml-projects/blob/master/data-viz-ggplot2/results/california_colleges.png)
 * Day 66: [Predict diabetes risk](https://github.com/1dhiman/ml-projects/blob/master/predict-diabetes-risk/Predict-diabetes-risk.ipynb)
+* Day 67: [Predict future sales](https://github.com/1dhiman/ml-projects/blob/master/predict-sales/predict-sales.ipynb)
 
 --- 
 
-* Day 67: [Predict future sales]
 * Day 68: [Predict wine quality]
 * Day 69: [Predictive Customer Analytics - Attrition Patterns]
 * Day 70: [Predictive Customer Analytics - Lifetime Value]
@@ -99,7 +99,8 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 90: [Exploring correlations with corr]
 * Day 91: [Fraud detection using autoencoders]
 * Day 92: [Published patents? 2011 China emerges as a leader]
-* Day 93: [t-SNE]
-* Day 94: [Classifying Consumer Finance Complaints]
-* Day 95: [Item Store demand forecasting - prophet]
-* Day 96: [Item Store demand forecasting - lightgbm]
+* Day 93: [China - 2 million patents for invention]
+* Day 94: [t-SNE]
+* Day 95: [Classifying Consumer Finance Complaints]
+* Day 96: [Item Store demand forecasting - prophet]
+* Day 97: [Item Store demand forecasting - lightgbm]
