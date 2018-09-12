@@ -71,10 +71,10 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 65: [Visualizing colleges in California](https://github.com/1dhiman/ml-projects/blob/master/data-viz-ggplot2/results/california_colleges.png)
 * Day 66: [Predict diabetes risk](https://github.com/1dhiman/ml-projects/blob/master/predict-diabetes-risk/Predict-diabetes-risk.ipynb)
 * Day 67: [Predict future sales](https://github.com/1dhiman/ml-projects/blob/master/predict-sales/predict-sales.ipynb)
+* Day 68: [Predict wine quality](https://github.com/1dhiman/ml-projects/blob/master/predict-wine-quality/predict-wine-quality.ipynb)
 
 --- 
 
-* Day 68: [Predict wine quality]
 * Day 69: [Predictive Customer Analytics - Attrition Patterns]
 * Day 70: [Predictive Customer Analytics - Lifetime Value]
 * Day 71: [Predictive Customer Analytics - Grouping Customer Support Problems]
