@@ -72,26 +72,26 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 66: [Predict diabetes risk](https://github.com/1dhiman/ml-projects/blob/master/predict-diabetes-risk/Predict-diabetes-risk.ipynb)
 * Day 67: [Predict future sales](https://github.com/1dhiman/ml-projects/blob/master/predict-sales/predict-sales.ipynb)
 * Day 68: [Predict wine quality](https://github.com/1dhiman/ml-projects/blob/master/predict-wine-quality/predict-wine-quality.ipynb)
+* Day 69: [Predictive Customer Analytics - Attrition Patterns](https://github.com/1dhiman/ml-projects/blob/master/predictive-customer-analytics/notebooks/Customer%20Attrition%20Patterns.ipynb)
+* Day 70: [Predictive Customer Analytics - Lifetime Value](https://github.com/1dhiman/ml-projects/blob/master/predictive-customer-analytics/notebooks/Customer%20Lifetime%20Value.ipynb)
+* Day 71: [Predictive Customer Analytics - Grouping Customer Support Problems](https://github.com/1dhiman/ml-projects/blob/master/predictive-customer-analytics/notebooks/Grouping%20Customer%20Support%20Problems.ipynb)
+* Day 72: [Predictive Customer Analytics - Predicting Prospect Propensity](https://github.com/1dhiman/ml-projects/blob/master/predictive-customer-analytics/notebooks/Propensity%20to%20buy.ipynb)
+* Day 73: [Predictive Customer Analytics - Recommending Items to Users](https://github.com/1dhiman/ml-projects/blob/master/predictive-customer-analytics/notebooks/Recommendation%20Engine.ipynb)
+* Day 74: [Numpy Essentials](https://github.com/1dhiman/Data-Science-with-Python/tree/master/01-NumPy-Essentials)
+* Day 75: [Pandas Essentials](https://github.com/1dhiman/Data-Science-with-Python/tree/master/02-Pandas-Essentials)
+* Day 76: [Python Data Analysis Essentials](https://github.com/1dhiman/Data-Science-with-Python/tree/master/03-Python-Data-Analysis)
+* Day 77: [Machine Learning 101](https://github.com/1dhiman/Data-Science-with-Python/tree/master/04-ml-101)
+* Day 78: [Trading Cryptocurrencies with momentum trading strategy](https://github.com/1dhiman/Machine-Learning-Projects/blob/master/Trading%20Cryptocurrencies%20.ipynb)
+* Day 79: [Predicting Republican and Democratic Donations](https://github.com/1dhiman/Machine-Learning-Projects/blob/master/Predicting%20Republican%20and%20Democratic%20donations.ipynb)
+* Day 80: [Exploring World Happiness Report](https://github.com/1dhiman/Machine-Learning-Projects/blob/master/Exploring%20world%20happiness%20report.ipynb)
+* Day 81: [Creating FiveThirtyEight Graphs](https://github.com/1dhiman/Machine-Learning-Projects/blob/master/FiveThirtyEight%20Graphs.ipynb)
+* Day 82: [Auto ML with TPOT](https://github.com/1dhiman/Machine-Learning-Projects/blob/master/Auto%20ML/TPOT%20-%20automating%20data%20science.ipynb)
+* Day 83: [EDA with Sales Data](https://www.kaggle.com/dhimananubhav/eda-with-sales-data)
+* Day 84: [Inspecting worse offender - Dodger Stadium](https://www.kaggle.com/dhimananubhav/inspecting-worse-offender-dodger-stadium)
+* Day 85: [Bayesian A/B testing]()
 
 --- 
 
-* Day 69: [Predictive Customer Analytics - Attrition Patterns]
-* Day 70: [Predictive Customer Analytics - Lifetime Value]
-* Day 71: [Predictive Customer Analytics - Grouping Customer Support Problems]
-* Day 72: [Predictive Customer Analytics - Predicting Prospect Propensity]
-* Day 73: [Predictive Customer Analytics - Recommending Items to Users]
-* Day 74: [Numpy Essentials]
-* Day 75: [Pandas Essentials]
-* Day 76: [Python Data Analysis Essentials]
-* Day 77: [Machine Learning 101]
-* Day 78: [Trading Cryptocurrencies with momentum trading strategy]
-* Day 79: [Predicting Republican and Democratic Donations]
-* Day 80: [Exploring World Happiness Report]
-* Day 81: [Creating FiveThirtyEight Graphs]
-* Day 82: [Auto ML with TPOT]
-* Day 83: [EDA with Sales Data]
-* Day 84: [Inspecting worse offender - Dodger Stadium]
-* Day 85: [Bayesian A/B testing]
 * Day 86: [Time series analysis]
 * Day 87: [California Wildfires]
 * Day 88: [Display calendar with python]
