@@ -88,7 +88,7 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 82: [Auto ML with TPOT](https://github.com/1dhiman/Machine-Learning-Projects/blob/master/Auto%20ML/TPOT%20-%20automating%20data%20science.ipynb)
 * Day 83: [EDA with Sales Data](https://www.kaggle.com/dhimananubhav/eda-with-sales-data)
 * Day 84: [Inspecting worse offender - Dodger Stadium](https://www.kaggle.com/dhimananubhav/inspecting-worse-offender-dodger-stadium)
-* Day 85: [Bayesian A/B testing]()
+* Day 85: [Bayesian A/B testing](https://github.com/1dhiman/100days-ml/blob/master/day85_bayesian_ab_testing.ipynb)
 
 --- 
 
