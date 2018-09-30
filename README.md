@@ -89,10 +89,10 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 83: [EDA with Sales Data](https://www.kaggle.com/dhimananubhav/eda-with-sales-data)
 * Day 84: [Inspecting worse offender - Dodger Stadium](https://www.kaggle.com/dhimananubhav/inspecting-worse-offender-dodger-stadium)
 * Day 85: [Bayesian A/B testing](https://github.com/1dhiman/100days-ml/blob/master/day85_bayesian_ab_testing.ipynb)
+* Day 86: [Time series analysis](https://github.com/1dhiman/100days-ml/blob/master/day86_time_series_analysis.ipynb)
 
 --- 
 
-* Day 86: [Time series analysis]
 * Day 87: [California Wildfires]
 * Day 88: [Display calendar with python]
 * Day 89: [Anonymize data with pandas]
