@@ -91,10 +91,10 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 85: [Bayesian A/B testing](https://github.com/1dhiman/100days-ml/blob/master/day85_bayesian_ab_testing.ipynb)
 * Day 86: [Time series analysis](https://github.com/1dhiman/100days-ml/blob/master/day86_time_series_analysis.ipynb)
 * Day 87: [California Wildfires](https://github.com/1dhiman/100days-ml/blob/master/day87_california_wildfires.R)
+* Day 88: [Display calendar with python](https://github.com/1dhiman/100days-ml/blob/master/day88_display_calendar_with_python.ipynb)
 
 --- 
 
-* Day 88: [Display calendar with python]
 * Day 89: [Anonymize data with pandas]
 * Day 90: [Exploring correlations with corr]
 * Day 91: [Fraud detection using autoencoders]
