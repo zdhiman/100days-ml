@@ -1,0 +1,231 @@
+---
+title: "How to explore correlations?"
+output:
+  html_document:
+    df_print: paged
+---
+
+[Source](https://drsimonj.svbtle.com/exploring-correlations-in-r-with-corrr)
+```{r}
+d <- mtcars
+d$hp[3] <- NA
+head(d)
+```
+
+We could be motivated by multicollinearity:
+
+```{r}
+fit_1 <- lm(mpg ~ hp,        data = d)
+fit_2 <- lm(mpg ~ hp + disp, data = d)
+```
+
+```{r}
+summary(fit_1)
+```
+
+```{r}
+summary(fit_2)
+```
+
+Strange result. Let’s check the correlations between `mpg`, `hp`, and `disp` to try and diagnose this problem. It should be simple using the base R function, `cor()`. Right?
+
+Err, what is with all the `NA`‘s ?
+
+```{r}
+rs <- cor(d)
+rs
+```
+
+Have to handle missing values with `use`:
+
+```{r}
+rs <- cor(d, use = "pairwise.complete.obs")
+rs
+```
+
+Can we focus on subset with dplyr? Nope.
+```{r}
+#dplyr::select(rs, mpg, hp, disp)
+```
+Riiiiiight! It’s a matrix and dplyr is for data frames.
+
+```{r}
+class(rs)
+```
+
+So we can use square brackets with matrices? Or not…
+
+```{r}
+vars <- c("mpg", "hp", "disp")
+rs[rownames(rs) %in% vars]
+```
+Mm, square brackets can take on different functions with matrices. Without a comma, it’s treated like a vector. With a comma, we can separately specify the dimensions.
+
+```{r}
+vars <- c("mpg", "hp", "disp")
+rs[rownames(rs) %in% vars, colnames(rs) %in% vars]
+```
+
+We diagnosed our multicollinearity problem. What if we want to something a bit more complex like exploring clustering of variables in high dimensional space? Could use exploratory factor analysis.
+
+```{r}
+factanal(na.omit(d), factors = 2)
+```
+
+```{r}
+factanal(na.omit(d), factors = 5)
+```
+
+So many questions! I’d much rather explore the correlations.
+
+Let’s try to find all variables with a correlation greater than 0.90. Why doesn’t this work?!
+
+```{r}
+col_has_over_90 <- apply(rs, 2, function(x) any(x > .9))
+rs[, col_has_over_90]
+```
+
+The diagonal is 1. All cols have a value greater than .90!
+
+Exclude diagonal:
+
+```{r}
+diag(rs) <- NA
+col_has_over_90 <- apply(rs, 2, function(x) any(x > .9, na.rm = TRUE))
+rs[, col_has_over_90]
+```
+
+## Exploring data with the tidyverse
+
+```{r}
+library(tidyverse)
+d %>% 
+  select(mpg:drat) %>% 
+  gather() %>% 
+  ggplot(aes(value)) +
+    geom_histogram() +
+    facet_wrap(~key, scales = "free")
+```
+
+# Using `corr`
+
+```{r}
+library(corrr)
+d %>% 
+  correlate() %>% 
+  focus(mpg:drat, mirror = TRUE) %>% 
+  network_plot()
+```
+
+```{r}
+rs <- correlate(d)
+rs
+```
+
+```{r}
+rs %>% 
+  select(mpg:drat) %>% 
+  gather() %>% 
+  ggplot(aes(value)) +
+    geom_histogram() +
+    facet_wrap(~key)
+```
+
+How about that challenge to find cols with a correlation greater than .9?
+```{r}
+any_over_90 <- function(x) any(x > .9, na.rm = TRUE)
+rs %>% select_if(any_over_90)
+```
+
+```{r}
+rs %>% 
+  focus(mpg, disp, hp)
+```
+
+```{r}
+rs %>% 
+  focus(-mpg, -disp, -hp)
+```
+
+```{r}
+rs %>% 
+  focus(mpg, disp, hp, mirror = TRUE)
+```
+
+```{r}
+rs %>% 
+  focus(matches("^d"))
+```
+
+```{r}
+rs %>% 
+  focus(mpg)
+```
+
+```{r}
+rs %>%
+  focus(mpg) %>%
+  mutate(rowname = reorder(rowname, mpg)) %>%
+  ggplot(aes(rowname, mpg)) +
+    geom_col() + coord_flip()
+```
+
+```{r}
+rs %>% rearrange()
+```
+
+```{r}
+rs %>% shave()
+```
+
+```{r}
+rs %>% stretch()
+```
+
+```{r}
+rs %>%
+  shave() %>% 
+  stretch(na.rm = FALSE) %>% 
+  ggplot(aes(r)) +
+    geom_histogram()
+```
+
+```{r}
+rs %>%
+  focus(mpg:drat, mirror = TRUE) %>% 
+  rearrange() %>% 
+  shave(upper = FALSE) %>% 
+  select(-hp) %>% 
+  filter(rowname != "drat")
+```
+
+```{r}
+rs %>% fashion()
+```
+
+```{r}
+rs %>%
+  focus(mpg:drat, mirror = TRUE) %>% 
+  rearrange() %>% 
+  shave(upper = FALSE) %>% 
+  select(-hp) %>% 
+  filter(rowname != "drat") %>% 
+  fashion()
+```
+
+```{r}
+rs %>% rplot()
+```
+
+```{r}
+rs %>%
+  rearrange(method = "MDS", absolute = FALSE) %>%
+  shave() %>% 
+  rplot(shape = 15, colors = c("red", "green"))
+```
+
+```{r}
+rs %>% network_plot(min_cor = .6)
+
+```
+
