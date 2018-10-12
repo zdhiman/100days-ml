@@ -98,9 +98,9 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 92: [Published patents? 2011 China emerges as a leader](https://www.kaggle.com/dhimananubhav/published-patents-2011-china-emerges-as-leader)
 * Day 93: [China - 2 million patents for invention](https://www.kaggle.com/dhimananubhav/china-2-million-patents-for-invention)
 * Day 94: [t-SNE](https://github.com/1dhiman/100days-ml/blob/master/day94_manifold_learning_and_t-SNE.ipynb)
+* Day 95: [Classifying Consumer Finance Complaints](https://github.com/1dhiman/100days-ml/blob/master/day95_Multi-Class%20Text%20Classification.ipynb)
 
 --- 
 
-* Day 95: [Classifying Consumer Finance Complaints]
 * Day 96: [Item Store demand forecasting - prophet]
 * Day 97: [Item Store demand forecasting - lightgbm]
