@@ -101,3 +101,6 @@ https://github.com/1dhiman/100days-ml/blob/master/day19_Networks_and_Geoviews.ip
 * Day 95: [Classifying Consumer Finance Complaints](https://github.com/1dhiman/100days-ml/blob/master/day95_Multi-Class%20Text%20Classification.ipynb)
 * Day 96: [Item Store demand forecasting - prophet](https://www.kaggle.com/dhimananubhav/vanilla-prophet-forecasting)
 * Day 97: [Item Store demand forecasting - lightgbm](https://www.kaggle.com/dhimananubhav/lgbm-plus-average-sales)
+* Day 98: [Movie review sentiment analysis](https://www.kaggle.com/dhimananubhav/movie-review-sentiment-analysis-eda-and-models)
+* Day 99: [MNIST CNN with Keras](https://www.kaggle.com/dhimananubhav/mnist-99-74-with-convoluted-nn-and-keras)
+* Day 100: [Brazilian ecommerce customer lifetime value prediction](https://www.kaggle.com/dhimananubhav/customer-lifetime-value)
