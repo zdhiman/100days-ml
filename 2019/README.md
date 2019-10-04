@@ -11,3 +11,5 @@
 * [Build Neural Network](https://github.com/1dhiman/100days-ml/blob/master/2019/2_pytorch_Neural_Network_Build.ipynb)
 * [Training](https://github.com/1dhiman/100days-ml/blob/master/2019/3_pytorch_Neural_Network_Training.ipynb)
 
+### Dynamic Pricing 
+* [How do prices influence purchasing](https://github.com/1dhiman/100days-ml/blob/master/2019/1_Dynamic_Pricing_price.ipynb)
