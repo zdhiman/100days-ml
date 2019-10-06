@@ -19,3 +19,7 @@
 * [Dimensionality Reduction](https://github.com/1dhiman/100days-ml/blob/master/2019/2_Unsupervised_Learning_dimensionality_reduction.ipynb)
 * [Anaomaly Detection](https://github.com/1dhiman/100days-ml/blob/master/2019/3_Unsupervised_Learning_anaomaly_detection.ipynb)
 * [Clustering](https://github.com/1dhiman/100days-ml/blob/master/2019/4_Unsupervised_Learning_clustering.ipynb)
+* [Group segmentation](https://github.com/1dhiman/100days-ml/blob/master/2019/5_Unsupervised_Learning_group_segmentation.ipynb)
+* 6
+* [Semi Supervised](https://github.com/1dhiman/100days-ml/blob/master/2019/7_Unsupervised_Learning_semisupervised.ipynb)
+* [Restricted Boltzmann Machines](https://www.kaggle.com/dhimananubhav/restricted-boltzmann-machines-recommender-system)
