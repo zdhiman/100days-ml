@@ -5,6 +5,7 @@
 * [What are the dominant colors in an image?](https://github.com/1dhiman/100days-ml/blob/master/2019/dominant_colors_in_image.ipynb)
 * [Getting started with APIs](https://github.com/1dhiman/100days-ml/blob/master/2019/Getting_started_with_APIs.ipynb)
 * [Transfer learning](https://github.com/1dhiman/100days-ml/blob/master/2019/tf_TransferLearning.ipynb)
+* [Visualizing stock market structure](https://github.com/1dhiman/100days-ml/blob/master/2019/Visualizing_stock_market_structure.ipynb)
 
 
 #### Pytorch 
