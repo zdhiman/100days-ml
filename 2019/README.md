@@ -26,5 +26,5 @@
 * [Semi Supervised](https://github.com/1dhiman/100days-ml/blob/master/2019/7_Unsupervised_Learning_semisupervised.ipynb)
 * [Restricted Boltzmann Machines](https://www.kaggle.com/dhimananubhav/restricted-boltzmann-machines-recommender-system)
 * [DBNS](https://github.com/1dhiman/100days-ml/blob/master/2019/9_Unsupervised_Learning_dbns.ipynb)
-* 10
+* [GANS](https://github.com/1dhiman/100days-ml/blob/master/2019/10_Unsupervised_Learning_gans.ipynb)
 * [Temporal Clustering](https://github.com/1dhiman/100days-ml/blob/master/2019/11_Unsupervised_Learning_temporal_clustering.ipynb)
