@@ -1,15 +1,17 @@
 # 2019
 
-1. [What is customer lifetime value?](https://www.linkedin.com/pulse/what-customer-lifetime-value-anubhav-dhiman/)
-2. [Which news outlets are giving climate change the most coverage?](https://www.kaggle.com/dhimananubhav/news-outlets-climate-change)
-3. [What are the dominant colors in an image?](https://github.com/1dhiman/100days-ml/blob/master/2019/dominant_colors_in_image.ipynb)
-4. [Getting started with APIs](https://github.com/1dhiman/100days-ml/blob/master/2019/Getting_started_with_APIs.ipynb)
+* [What is customer lifetime value?](https://www.linkedin.com/pulse/what-customer-lifetime-value-anubhav-dhiman/)
+* [Which news outlets are giving climate change the most coverage?](https://www.kaggle.com/dhimananubhav/news-outlets-climate-change)
+* [What are the dominant colors in an image?](https://github.com/1dhiman/100days-ml/blob/master/2019/dominant_colors_in_image.ipynb)
+* [Getting started with APIs](https://github.com/1dhiman/100days-ml/blob/master/2019/Getting_started_with_APIs.ipynb)
+* [Transfer learning](https://github.com/1dhiman/100days-ml/blob/master/2019/tf_TransferLearning.ipynb)
 
 
 #### Pytorch 
 * [Input Data](https://github.com/1dhiman/100days-ml/blob/master/2019/1_pytorch_Neural_Network_Input.ipynb)
 * [Build Neural Network](https://github.com/1dhiman/100days-ml/blob/master/2019/2_pytorch_Neural_Network_Build.ipynb)
 * [Training](https://github.com/1dhiman/100days-ml/blob/master/2019/3_pytorch_Neural_Network_Training.ipynb)
+
 
 #### Dynamic Pricing 
 * [How do prices influence purchasing](https://github.com/1dhiman/100days-ml/blob/master/2019/1_Dynamic_Pricing_price.ipynb)
@@ -24,3 +26,5 @@
 * [Semi Supervised](https://github.com/1dhiman/100days-ml/blob/master/2019/7_Unsupervised_Learning_semisupervised.ipynb)
 * [Restricted Boltzmann Machines](https://www.kaggle.com/dhimananubhav/restricted-boltzmann-machines-recommender-system)
 * [DBNS](https://github.com/1dhiman/100days-ml/blob/master/2019/9_Unsupervised_Learning_dbns.ipynb)
+* 10
+* [Temporal Clustering](https://github.com/1dhiman/100days-ml/blob/master/2019/11_Unsupervised_Learning_temporal_clustering.ipynb)
