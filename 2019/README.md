@@ -16,8 +16,8 @@
 
 
 #### Dynamic Pricing 
-* [How do prices influence purchasing](https://github.com/1dhiman/100days-ml/blob/master/2019/1_Dynamic_Pricing_price.ipynb)
-* [How does time influences the purchasing of a ticket to theatre?](https://github.com/1dhiman/100days-ml/blob/master/2019/2_Dynamic_Pricing_time.ipynb)
+* [How does prices influence purchasing](https://github.com/1dhiman/100days-ml/blob/master/2019/1_Dynamic_Pricing_price.ipynb)
+* [How does time influence purchasing](https://github.com/1dhiman/100days-ml/blob/master/2019/2_Dynamic_Pricing_time.ipynb)
 
 #### Unsupervised learning
 * [End to end](https://github.com/1dhiman/100days-ml/blob/master/2019/1_Unsupervised_Learning_end_to_end.ipynb)
