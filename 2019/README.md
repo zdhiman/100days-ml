@@ -31,3 +31,12 @@
 * [DBNS](https://github.com/1dhiman/100days-ml/blob/master/2019/9_Unsupervised_Learning_dbns.ipynb)
 * [GANS](https://github.com/1dhiman/100days-ml/blob/master/2019/10_Unsupervised_Learning_gans.ipynb)
 * [Temporal Clustering](https://github.com/1dhiman/100days-ml/blob/master/2019/11_Unsupervised_Learning_temporal_clustering.ipynb)
+
+
+# Itertools
+* [groupy](https://github.com/1dhiman/100days-ml/blob/master/2019/itertools_groupby.ipynb)
+* [compress](https://github.com/1dhiman/100days-ml/blob/master/2019/2_itertools_compress.ipynb)
+* [starmap](https://github.com/1dhiman/100days-ml/blob/master/2019/3_itertools_starmap.ipynb)
+* [count and slice](https://github.com/1dhiman/100days-ml/blob/master/2019/4_itertools_count_and_slice.ipynb)
+* [chain](https://github.com/1dhiman/100days-ml/blob/master/2019/5_itertools_chain-chain_from_iterable-zip_longest.ipynb)
+* [dropwhile and takewhile](https://github.com/1dhiman/100days-ml/blob/master/2019/6_itertools_dropwhile_takewhile.ipynb)
