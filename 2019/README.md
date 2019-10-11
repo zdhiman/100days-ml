@@ -8,12 +8,10 @@
 * [Visualizing stock market structure](https://github.com/1dhiman/100days-ml/blob/master/2019/Visualizing_stock_market_structure.ipynb)
 * [Text classification with spacy](https://www.kaggle.com/dhimananubhav/text-classification-with-spacy)
 
-
 #### Pytorch 
 * [Input Data](https://github.com/1dhiman/100days-ml/blob/master/2019/1_pytorch_Neural_Network_Input.ipynb)
 * [Build Neural Network](https://github.com/1dhiman/100days-ml/blob/master/2019/2_pytorch_Neural_Network_Build.ipynb)
 * [Training](https://github.com/1dhiman/100days-ml/blob/master/2019/3_pytorch_Neural_Network_Training.ipynb)
-
 
 #### Dynamic Pricing 
 * [How does prices influence purchasing](https://github.com/1dhiman/100days-ml/blob/master/2019/1_Dynamic_Pricing_price.ipynb)
@@ -32,8 +30,7 @@
 * [GANS](https://github.com/1dhiman/100days-ml/blob/master/2019/10_Unsupervised_Learning_gans.ipynb)
 * [Temporal Clustering](https://github.com/1dhiman/100days-ml/blob/master/2019/11_Unsupervised_Learning_temporal_clustering.ipynb)
 
-
-# Itertools
+#### Itertools
 * [groupy](https://github.com/1dhiman/100days-ml/blob/master/2019/itertools_groupby.ipynb)
 * [compress](https://github.com/1dhiman/100days-ml/blob/master/2019/2_itertools_compress.ipynb)
 * [starmap](https://github.com/1dhiman/100days-ml/blob/master/2019/3_itertools_starmap.ipynb)
