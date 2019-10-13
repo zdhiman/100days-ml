@@ -7,6 +7,7 @@
 * [Transfer learning](https://github.com/1dhiman/100days-ml/blob/master/2019/tf_TransferLearning.ipynb)
 * [Visualizing stock market structure](https://github.com/1dhiman/100days-ml/blob/master/2019/Visualizing_stock_market_structure.ipynb)
 * [Text classification with spacy](https://www.kaggle.com/dhimananubhav/text-classification-with-spacy)
+* [Intermediate level matplotlib](https://github.com/1dhiman/100days-ml/blob/master/2019/intermediate_matplotlib.ipynb)
 
 #### Pytorch 
 * [Input Data](https://github.com/1dhiman/100days-ml/blob/master/2019/1_pytorch_Neural_Network_Input.ipynb)
