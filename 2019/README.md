@@ -8,6 +8,7 @@
 * [Visualizing stock market structure](https://github.com/1dhiman/100days-ml/blob/master/2019/Visualizing_stock_market_structure.ipynb)
 * [Text classification with spacy](https://www.kaggle.com/dhimananubhav/text-classification-with-spacy)
 * [Intermediate level matplotlib](https://github.com/1dhiman/100days-ml/blob/master/2019/intermediate_matplotlib.ipynb)
+* [Make your own prophecies](https://www.kaggle.com/dhimananubhav/make-your-own-prophecies)
 
 #### Pytorch 
 * [Input Data](https://github.com/1dhiman/100days-ml/blob/master/2019/1_pytorch_Neural_Network_Input.ipynb)
