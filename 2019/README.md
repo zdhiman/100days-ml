@@ -39,3 +39,5 @@
 * [count and slice](https://github.com/1dhiman/100days-ml/blob/master/2019/4_itertools_count_and_slice.ipynb)
 * [chain](https://github.com/1dhiman/100days-ml/blob/master/2019/5_itertools_chain-chain_from_iterable-zip_longest.ipynb)
 * [dropwhile and takewhile](https://github.com/1dhiman/100days-ml/blob/master/2019/6_itertools_dropwhile_takewhile.ipynb)
+* [permutations and combinations](https://github.com/1dhiman/100days-ml/blob/master/2019/7_itertools_permutations_combinations.ipynb)
+* [cycle and repeat](https://github.com/1dhiman/100days-ml/blob/master/2019/8_itertools_repeat_cycle.ipynb)
