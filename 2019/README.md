@@ -9,7 +9,11 @@
 * [Text classification with spacy](https://www.kaggle.com/dhimananubhav/text-classification-with-spacy)
 * [Intermediate level matplotlib](https://github.com/1dhiman/100days-ml/blob/master/2019/intermediate_matplotlib.ipynb)
 * [Make your own prophecies](https://www.kaggle.com/dhimananubhav/make-your-own-prophecies)
-* [Global Top 250 Retailers ](https://github.com/1dhiman/100days-ml/blob/master/2019/top250_retailers.ipynb)
+
+#### Global Top 250 Retailers
+* [Gather data](https://github.com/1dhiman/100days-ml/blob/master/2019/top250_retailers.ipynb)
+* [Make dataset](https://www.kaggle.com/dhimananubhav/global-top-250-retailers)
+* [US$ 4 trillion retail revenue](https://www.kaggle.com/dhimananubhav/us-4-trillion-retail-revenue)
 
 #### Pytorch 
 * [Input Data](https://github.com/1dhiman/100days-ml/blob/master/2019/1_pytorch_Neural_Network_Input.ipynb)
