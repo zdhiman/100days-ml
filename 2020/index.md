@@ -12,3 +12,10 @@
     * Sharing Fixtures with `conftest.py`
     * Parametrizing Fixtures
     * Skipping Tests
+3. [Making Python Programs Fast:](https://github.com/1dhiman/100days-ml/blob/master/2020/making_python_programs_fast.ipynb)
+    * Use Built-in Data Types
+    * Use Local Variables
+    * Use Functions
+    * Don't Access Attributes
+    * Use f-strings
+    * Generators Can Be Fast
